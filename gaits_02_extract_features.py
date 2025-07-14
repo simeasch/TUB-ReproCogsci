@@ -8,9 +8,9 @@ import matplotlib.pyplot as plt
 
 
 # Definitions
-data_folder = "P:/Sein_Jeung/Teaching/ReproResearch/Data"
-figure_folder = "P:/Sein_Jeung/Teaching/ReproResearch/Figures"
-results_folder = "P:/Sein_Jeung/Teaching/ReproResearch/Results"
+data_folder = "/Users/simeascheurer/Desktop/ReproCogSci/Data"
+figure_folder = "/Users/simeascheurer/Desktop/ReproCogSci/Figures"
+results_folder = "/Users/simeascheurer/Desktop/ReproCogSci/Results"
 subset_name = "Ga"  # enter one of the following : Ju, Si, Ga
 participant_groups = "Co", "Pt"  # Co for controls, Pt for patients
 max_n_participant = 33  # maximal number of participants per group
