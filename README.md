@@ -23,7 +23,7 @@ This repository contains scripts for analyzing and processing data from the publ
   Output: Displays and saves a plot comparing average stride      times between the groups.
 
 # Dataset belonging to the Scripts
-The dataset used for the analysis is shared as part of the seminar and contains data on gait analysis, sensor readings, and experimental results. Files are located in the `data` folder of the repository.
+The dataset used for the analysis is shared as part of the seminar and contains data on gait analysis, sensor readings, and experimental results.
 
 # Data source:
 - (https://physionet.org/content/gaitpdb/1.0.0/)
